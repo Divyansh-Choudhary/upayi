@@ -2,7 +2,7 @@
 ---
 ### Show some :heart: and :star: the repo to support the project
 
-[![GitHub stars](https://img.shields.io/github/stars/cyberboysumanjay/upayi.svg?style=social&label=Star)](https://github.com/cyberboysumanjay/upayi) ![GitHub followers](https://img.shields.io/github/followers/cyberboysumanjay.svg?style=social&label=Follow)
+[![GitHub stars](https://img.shields.io/github/stars/divyansh-choudhary/upayi.svg?style=social&label=Star)](https://github.com/divyansh-choudhary/upayi) ![GitHub followers](https://img.shields.io/github/followers/cyberboysumanjay.svg?style=social&label=Follow)
 
 [![Telegram Channel](https://img.shields.io/badge/Telegram-Channel-orange)](https://telegram.dog/sjprojects) [![made-with-flask](https://img.shields.io/badge/Made%20with-Flask-1f425f.svg)](https://flask.palletsprojects.com/) ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/cyberboysumanjay/upayi)
 
@@ -54,7 +54,7 @@ Forking this project and <b>changing author name won't make you developer</b>
 ---
 
 <h4><a href="https://upayi.me/">Click here to create your UPI link</a></h4>
-<h3>Made with :heart: by <a href="https://cyberboysumanjay.github.io" alt="Sumanjay">Sumanjay</a>
+<h3>Made with :heart: by <a href="https://divyansh-choudhary.github.io" alt="Divyansh">Divyansh</a>
 </div>
 
 ---
